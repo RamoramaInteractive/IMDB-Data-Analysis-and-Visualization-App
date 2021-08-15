@@ -17,7 +17,7 @@ The second graph is the representation of a horizontal bar chart of directors wi
 
 The third graph is the representation of movie genres with their average meta score and average one-player bites. The brightness of the color determines the number of movies assigned to the genre.
 
-<img alt="Centrality of the leading actors" src="https://github.com/RamoramaInteractive/IMDB-Data-Analysis-and-Visualization-App/blob/master/Screenshots/Screen001.jpg" width="50%" height="50%"><img alt="Average IMDB Rating of the Movies" src="https://github.com/RamoramaInteractive/IMDB-Data-Analysis-and-Visualization-App/blob/master/Screenshots/Screen002.jpg" width="50%" height="50%"><img alt="Average Gross of the Movie Genres" src="https://github.com/RamoramaInteractive/IMDB-Data-Analysis-and-Visualization-App/blob/master/Screenshots/Screen003.jpg" width="50%" height="50%">
+<img alt="Centrality of the leading actors" src="https://github.com/RamoramaInteractive/IMDB-Data-Analysis-and-Visualization-App/blob/main/Screenshots/Screen001.jpg" width="30%" height="30%"><img alt="Average IMDB Rating of the Movies" src="https://github.com/RamoramaInteractive/IMDB-Data-Analysis-and-Visualization-App/blob/main/Screenshots/Screen002.jpg" width="30%" height="30%"><img alt="Average Gross of the Movie Genres" src="https://github.com/RamoramaInteractive/IMDB-Data-Analysis-and-Visualization-App/blob/main/Screenshots/Screen003.jpg" width="30%" height="30%">
 
 ## Features
 * Calculation of the shortest path between two leading actors.
