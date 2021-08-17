@@ -9,7 +9,7 @@
 - [References](#references)
 
 ## Introduction
-I developed this app as part of the Master's course [Computational and Visual Network Analsysis](https://lnu.se/en/research/PhD-studies/kurser/ftk/computational-and-visual-network-analysis/) of the study program computer science at [Linnaeus University](https://lnu.se/) in Växjö, Sweden. The goal of this app is to read IMDB data from imdb_top_1000.csv, filter it and visualize it in parallel. This app was developed with Python 3.7. The Python frameworks NetworkX and Plotly were used for the graphical representation and Dash was used to dynamically manipulate the data. 
+I developed this app as part of the Master's course [Computational and Visual Network Analsysis](https://lnu.se/en/research/PhD-studies/kurser/ftk/computational-and-visual-network-analysis/) of the study program computer science at the [Linnaeus University](https://lnu.se/) in Växjö, Sweden. The goal of this app is to read IMDB data from imdb_top_1000.csv, filter it and visualize it in parallel. This app was developed with Python 3.7. The Python frameworks NetworkX and Plotly were used for the graphical representation and Dash was used to dynamically manipulate the data. 
 
 Three graphical diagrams are presented: The first graph is a network of the first and second main actors who played in common movies.
 
